@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class primeornot {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner scn = new Scanner(System.in);
         int t = scn.nextInt();
         for (int i = 1; i <= t; i++){
