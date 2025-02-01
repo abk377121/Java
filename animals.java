@@ -46,6 +46,7 @@ public class animals {
         l1.genus = "Panthera";
         l1.species = "P. leo";
         l1.display();
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         System.out.println("Should this baby lion eat?: ");
         String eat = sc.nextLine();
