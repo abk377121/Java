@@ -6,11 +6,15 @@ import java.util.Scanner;
 public class luffy {
     private int gearnum;
     private String attack;
-    private boolean armament;
-    private boolean observation;
-    private boolean conqueror;
+    boolean armament;
+    boolean observation;
+    boolean conqueror;
     public int opphealth = 500;
     public int health = 100;
+    int dodges = 10;
+    int busonshoku = 7;
+    int haoshoku = 3;
+
 
     public void Gears(int gearnum, String attack, boolean armament, boolean observation, boolean conqueror){
         this.gearnum = gearnum;
