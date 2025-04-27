@@ -1,6 +1,3 @@
-import java.io.*;
-import java.util.*;
-
 public class somethingarray {
     public static void main(String[] args) {
         int n = 5;
