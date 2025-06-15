@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binarysrchusingrescursion",
+            "request": "launch",
+            "mainClass": "binarysrchusingrescursion",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
             "name": "binarysearchelement",
             "request": "launch",
             "mainClass": "binarysearchelement",
