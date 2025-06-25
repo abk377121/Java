@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumofcubesisinteger",
+            "request": "launch",
+            "mainClass": "sumofcubesisinteger",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
             "name": "binarysrchusingrescursion",
             "request": "launch",
             "mainClass": "binarysrchusingrescursion",
