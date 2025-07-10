@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibonacciAFTERMONTHS",
+            "request": "launch",
+            "mainClass": "fibonacciAFTERMONTHS",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
             "name": "quicksort",
             "request": "launch",
             "mainClass": "quicksort",
