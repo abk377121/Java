@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mode",
+            "request": "launch",
+            "mainClass": "mode",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
             "name": "anagram",
             "request": "launch",
             "mainClass": "anagram",
