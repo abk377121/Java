@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "oopsmode",
+            "request": "launch",
+            "mainClass": "oopsmode",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
             "name": "mode",
             "request": "launch",
             "mainClass": "mode",
