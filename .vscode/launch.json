@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "revisestrings2",
+            "request": "launch",
+            "mainClass": "revisestrings2",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
+            "name": "revisestrings1",
+            "request": "launch",
+            "mainClass": "revisestrings1",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
             "name": "oopsmode",
             "request": "launch",
             "mainClass": "oopsmode",
