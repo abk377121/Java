@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "validateidentifier",
+            "request": "launch",
+            "mainClass": "validateidentifier",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
+            "name": "stringsearch",
+            "request": "launch",
+            "mainClass": "stringsearch",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
             "name": "revisestrings2",
             "request": "launch",
             "mainClass": "revisestrings2",
