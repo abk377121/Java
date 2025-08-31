@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "devoidarrays",
+            "request": "launch",
+            "mainClass": "devoidarrays",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
             "name": "nullarrays",
             "request": "launch",
             "mainClass": "nullarrays",
