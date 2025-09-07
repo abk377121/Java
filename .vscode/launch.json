@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "dupereturn",
+            "request": "launch",
+            "mainClass": "dupereturn",
+            "projectName": "Java_624fa6a5"
+        },
+        {
+            "type": "java",
             "name": "devoidarrays",
             "request": "launch",
             "mainClass": "devoidarrays",
