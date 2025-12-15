@@ -47,7 +47,6 @@ public class quicksort {
         sc.close();
     }
 }
-//for loop is a loop that iterates over a group of values in a range.
 // Output:
 // Enter the number of elements in the array:
 // 5
